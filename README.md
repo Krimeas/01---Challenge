@@ -22,7 +22,8 @@ An SEO Marketing company wants their code to follow accessibility standards so t
   4. Linked nav bar to appropriate location on website so when you click it takes you there.
   5. Updated footer section to <footer> for accessibility.
   6. Removed the heart emoji and put in "love" for the footer.
+  
 
 Original code and other content for modification supplied by UT Austin Bootcamp.
 
-This code follows the MIT License
+This code follows the MIT License!
