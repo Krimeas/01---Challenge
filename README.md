@@ -16,8 +16,8 @@ An SEO Marketing company wants their code to follow accessibility standards so t
   4. Git bash for windows
 
 ### Tasks accomplished:
-  1.Updated head elements putting in website name, and moving links below title element.
-  2. Updated header section from section to <header> for accessibility.
+  1. Updated head elements putting in website name, and moving links below title element.
+  2. Updated header section from section to header for accessibility.
   3. Updated multiple div tags to either section or nav and related CSS code.
   4. Linked nav bar to appropriate location on website so when you click it takes you there.
   5. Updated footer section to footer for accessibility. 
