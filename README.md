@@ -17,10 +17,10 @@ An SEO Marketing company wants their code to follow accessibility standards so t
 
 ### Tasks accomplished:
   1.Updated head elements putting in website name, and moving links below title element.
-  2. Updated header section from <section> to <header> for accessibility.
-  3. Updated multiple <div> tags to either <section> or <nav> and related CSS code.
+  2. Updated header section from section to <header> for accessibility.
+  3. Updated multiple div tags to either section or nav and related CSS code.
   4. Linked nav bar to appropriate location on website so when you click it takes you there.
-  5. Updated footer section to <footer> for accessibility.
+  5. Updated footer section to footer for accessibility. 
   6. Removed the heart emoji and put in "love" for the footer.
   
 
